@@ -13,7 +13,7 @@ I am Postdoc researcher of the Einstein Research Unit [CliWaC](https://www.cliwa
 
 - :seedling: Exploring data analysis and visualization.
 
-- :books:You can learn more about my scientific publications at: 
+- :books: You can learn more about my scientific publications at: 
 
       &emsp; &emsp;
 [<img src="https://svgsilh.com/svg/1721872.svg" title="Webpage" alt="Webpage" width="25" height="25"/> oekohydro.tu-berlin.de/pedro_alencar/](https://www.oekohydro.tu-berlin.de/menue/team/pedro_alencar/)
