@@ -9,7 +9,7 @@ I am a doctor wiht double degree in Ecohydrology (Technische Universität Berlin
 
 I am Postdoc researcher of the Einstein Research Unit [CliWaC](https://www.cliwac.de/) - Climate and Water under Change, from Germany.
 
-- :microscope: Working on different methods of idetifying extreme weather, particularly in the dry side (dry spells, droughts and flash droughts).
+- :microscope: Working on different methods of idetifying extreme weather, particularly in the drier spectrum side (dry spells, droughts and flash droughts).
 
 - :seedling: Exploring data analysis and visualization.
 
