@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro Alencar
 
-I am a doctor wiht double degree in Ecohydrology (Technische Universität Berlin) and Agricultural Engineering (Universidade Federal do Ceará).
+I am a doctor with double degree in Ecohydrology (Technische Universität Berlin) and Agricultural Engineering (Universidade Federal do Ceará).
 
 ---
 
