@@ -16,10 +16,10 @@ I am Postdoc researcher of the Einstein Research Unit [CliWaC](https://www.cliwa
 - :books: You can learn more about my scientific publications at: 
 
       &emsp; &emsp;
-[<img src="https://svgsilh.com/svg/1721872.svg" title="Webpage" alt="Webpage" width="25" height="25"/> oekohydro.tu-berlin.de/pedro_alencar/](https://www.oekohydro.tu-berlin.de/menue/team/pedro_alencar/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Logo_der_Technischen_Universit%C3%A4t_Berlin.svg" title="Webpage" alt="Webpage" width="40" height="23"/> &nbsp; oekohydro.tu-berlin.de/pedro_alencar/](https://www.oekohydro.tu-berlin.de/menue/team/pedro_alencar/)
    
       &emsp; &emsp;
-[<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" title="Webpage" alt="Webpage" width="25" height="25"/> orcid.org/pedro_alencar/](https://orcid.org/0000-0001-6221-8580)
+[<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" title="Webpage" alt="Webpage" width="25" height="25"/> &emsp; orcid.org/pedro_alencar/](https://orcid.org/0000-0001-6221-8580)
                                                       
 ---
 ### :hammer_and_wrench: Languages and Tools :
