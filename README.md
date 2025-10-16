@@ -2,6 +2,8 @@
 
 I am a doctor with double degree in Ecohydrology (Technische Universität Berlin) and Agricultural Engineering (Universidade Federal do Ceará).
 
+To get more information on my recent projects and publications visit [pedroalencar1.io](https://pedroalencar1.github.io/).
+
 ---
 
 ### :man_technologist: About Me :
