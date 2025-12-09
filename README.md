@@ -9,11 +9,11 @@ To get more information on my recent projects and publications visit [pedroalenc
 ### :man_technologist: About Me :
 
 
-I am Postdoc researcher of the Einstein Research Unit [CliWaC](https://www.cliwac.de/) - Climate and Water under Change, from Germany.
+I am a Postdoctoral researcher on the [KI-recover](https://www.tu.berlin/en/geoinformation/research/projects/ongoing-projects/ki-recover) project, funded by the Federal Ministry for the Environment, Nature Conservation and Nuclear Safety (Germany).
 
-- :microscope: Working on different methods of idetifying extreme weather, particularly in the drier spectrum side (dry spells, droughts and flash droughts).
+- :microscope: Working on different methods of identifying extreme weather, particularly in the drier spectrum side (dry spells, droughts and flash droughts).
 
-- :seedling: Exploring data analysis and visualization.
+- :seedling: Exploring data analysis and visualisation.
 
 - :books: You can learn more about my scientific publications at: 
 
